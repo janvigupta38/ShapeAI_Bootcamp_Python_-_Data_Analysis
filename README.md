@@ -2,7 +2,7 @@ SHAPEAI Python and Data Analysis BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . The instructor during the session was Nandini Jalan(Ex-Intern at Google). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtu.be/Ar43AiqTTQc"> <img src="https://drive.google.com/file/d/1QJS9EGRQDJ35TACQkB0B51OyFdaC0qIo/view?usp=sharing"> </a>
+<a href="https://youtu.be/Ar43AiqTTQc"> <src="link"> </a>
 <br>I got to have hands on experience on:
 <li>JavaScript
 <li>HTML
