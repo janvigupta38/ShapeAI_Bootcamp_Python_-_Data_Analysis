@@ -1,8 +1,8 @@
-SHAPEAI Javascript and Reactjs BOOTCAMP
+SHAPEAI Python and Data Analysis BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI . The instructor during the session was Nandini Jalan(Ex-Intern at Google). I got to learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtu.be/Ar43AiqTTQc"> <img src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F149555023_3910909592363632_1782449572009418894_n.jpg%3Fccb%3D11-4%26oh%3D10c51d73024c86cc89649537cbc6601a%26oe%3D60DB3B56&t=l&u=917358195042-1623077237%40g.us&i=1623087124&n=ObBOjdYO2QFc0Hau4NZExBasRDjD%2Fu0YNEfq1XyAFhU%3D"> </a>
+<a href="https://youtu.be/Ar43AiqTTQc"> <img src="https://drive.google.com/file/d/1QJS9EGRQDJ35TACQkB0B51OyFdaC0qIo/view?usp=sharing"> </a>
 <br>I got to have hands on experience on:
 <li>JavaScript
 <li>HTML
